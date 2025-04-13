@@ -22,3 +22,8 @@
 .deleteButton:hover {
   background-color: #e60000;
 }
+
+.icon {
+  margin: 0 5px;
+  color: #666;
+}
