@@ -1,4 +1,4 @@
-import ContactsForm from './components/ContactsForm/ContactsForm';
+import ContactForm from './components/ContactForm/ContactForm';
 import SearchBox from './components/SearchBox/SearchBox';
 import ContactList from './components/ContactList/ContactList';
 
@@ -6,7 +6,7 @@ function App() {
   return (
     <div>
       <h1>Phonebook</h1>
-      <ContactsForm />
+      <ContactForm />
       <SearchBox />
       <ContactList />
     </div>
