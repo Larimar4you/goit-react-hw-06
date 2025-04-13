@@ -19,7 +19,7 @@ Add global page container spacing main * {
   margin: 0 auto;
 }
 
-/* Make sure the body scrolls naturally */
+/*  the body scrolls naturally */
 body {
   display: block;
   padding-top: 60px; /* space for nav */
